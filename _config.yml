@@ -1,0 +1,9 @@
+title: "your monospace minimalist website"
+description: "phd student | deep learning | internship hunt"
+theme: minima
+plugins:
+  - jekyll-feed
+markdown: kramdown
+permalink: /:title/
+# uncomment below if you want relative urls for github pages
+# relative_permalinks: true
