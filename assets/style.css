@@ -40,3 +40,12 @@ body {
     margin-bottom: 2rem;
   }
   
+  .site-header h1 a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .site-header h1 a:hover {
+    text-decoration: none;
+  }
+  
