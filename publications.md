@@ -5,7 +5,7 @@ title: publications
 
 # posters & publications
 
-| title                                  | venue/journal   | link      |
-|----------------------------------------|-----------------|-----------|
-| example paper on birdsong segmentation | cool journal xyz| [pdf](#)  |
-| example poster on wolf howls           | conf. abc       | [poster](#) |
+| title | authors | venue/journal | link |
+|-------|---------|--------------|------|
+| example paper on birdsong segmentation | G. Vengrovski, et al. | cool journal xyz | [pdf](#) |
+| example poster on wolf howls | G. Vengrovski, A. Smith | conf. abc | [poster](#) |
