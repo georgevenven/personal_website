@@ -31,7 +31,7 @@ body {
   }
   
   th, td {
-    border: 1px solid #bbb;
+    border: none;
     padding: 0.5rem;
     text-align: left;
   }
@@ -47,5 +47,18 @@ body {
   
   .site-header h1 a:hover {
     text-decoration: none;
+  }
+  
+  .site-nav {
+    margin-bottom: 2rem;
+  }
+  
+  .site-nav a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .site-nav a:hover {
+    text-decoration: underline;
   }
   
