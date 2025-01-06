@@ -5,7 +5,7 @@ title: publications
 
 # Papers, Posters, and Talks
 
-| title | authors | venue/journal | link |
+| Title | Authors | Venue/Journal | Link |
 |-------|---------|--------------|------|
 | TweetyBERT: Self-Supervised Learning Reveals Structure in Complex Birdsong | G. Vengrovski, R. Hulsey-Vincent, M. Bemrose, A. Kapoor, T. Gardner | preprint in submission | [pdf](#) |
 | TweetyBERT: Unsupervised Representation Learning for Canary Song Segmentation and Clustering | G. Vengrovski, R. Hulsey-Vincent, M. Bemrose, T. Gardner | Oregon Biosciences Symposium 2024 | [poster](#) |
