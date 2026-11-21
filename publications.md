@@ -20,6 +20,8 @@ Vengrovski, G., Hulsey-Vincent, M. R., Bemrose, M. A., & Gardner, T. J. (2026). 
 
 ## Conference and workshop contributions
 
+Hulsey-Vincent, M. R., Vengrovski, G., & Gardner, T. (2026, November 17). *Extended phrase history predicts within-song syntax, while slow repertoire states organize song choice in canaries* [Late-breaking poster LBP065.22/C8]. Society for Neuroscience Annual Meeting (Neuroscience 2026), Washington, DC. [Abstract](https://www.sfn.org/-/media/SfN/Documents/NEW-SfN/Meetings/Neuroscience-2026/Abstracts-and-Sessions/Abstract-PDFs/SFN26_Abstracts-PDF-LB_final.pdf#page=1001)
+
 Vengrovski, G., & Gardner, T. J. (2025, December 6). *SongMAE: Fine-Grained Syllable Discovery in Birdsong Using Asymmetric Patches* [Workshop paper and poster]. AI for Non-Human Animal Communication Workshop, NeurIPS 2025, San Diego, CA. [Paper](https://openreview.net/pdf?id=8mluzLyvyV) · [Conference listing](https://neurips.cc/virtual/2025/loc/san-diego/131534)
 
 Vengrovski, G., Hulsey-Vincent, M. R., Bemrose, M., & Gardner, T. (2025, March 29). *TweetyBERT, a self-supervised vision transformer to automate birdsong annotation* [Poster 3-039]. Computational and Systems Neuroscience (Cosyne), Montréal, Canada. [ePoster](https://world-wide.org/conf/cosyne-25/tweetybert-self-supervised-vision-qqpb5dxl) · [Program](https://static1.squarespace.com/static/6102ca347474c263c40150cd/t/6894fc7f5fb1aa4a65a2fc1e/1754594431324/Cosyne%2B2025%2BMain%2BMeeting%2BProgram%2BBook.pdf#page=224)
