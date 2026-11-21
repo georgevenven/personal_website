@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="intro">
-  <div class="portrait-placeholder" aria-hidden="true">GV</div>
+  <img class="portrait" src="{{ '/assets/images/gardner-lab-portrait.jpg' | relative_url }}" alt="George Vengrovski" width="900" height="600">
   <p>Hi, I’m George. I work on machine learning for birdsong. I did my PhD in biology at the University of Oregon, where I was advised by <a href="https://knightcampus.uoregon.edu/tim-gardner">Tim Gardner</a>. I built models that find and identify syllables in recordings so neuroscientists can study how birds’ songs change.</p>
   <p>Outside research, I like motorsports, snowboarding, and tennis.</p>
 </div>
