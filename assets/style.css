@@ -30,7 +30,7 @@ body {
 
 .credential {
   font-size: 0.54em;
-  font-weight: 500;
+  font-weight: 700;
   letter-spacing: normal;
 }
 
@@ -114,4 +114,11 @@ ul {
 
 li + li {
   margin-top: 0.6rem;
+}
+
+.bibliography p {
+  margin: 0 0 1rem;
+  padding-left: 1rem;
+  text-indent: -1rem;
+  overflow-wrap: anywhere;
 }
