@@ -10,9 +10,9 @@
   <body>
     <header class="site-header">
       {% if page.url == '/' %}
-        <h1>{{ site.title }}<span class="credential">,&nbsp;PhD</span></h1>
+        <h1><a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}<span class="credential">,&nbsp;PhD</span></a></h1>
       {% else %}
-        <p class="site-name">{{ site.title }}<span class="credential">,&nbsp;PhD</span></p>
+        <p class="site-name"><a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}<span class="credential">,&nbsp;PhD</span></a></p>
       {% endif %}
       {% include navigation.html %}
     </header>
