@@ -10,11 +10,11 @@ permalink: /publications/
 
 ## Journal articles and preprints
 
-Vengrovski, G., & Gardner, T. J. (2026, September 25). A Vision-Language Model as a Teacher for Bird Vocalization Detection. *bioRxiv* [Preprint]. [doi:10.64898/2026.09.23.753955](https://doi.org/10.64898/2026.09.23.753955)
+Vengrovski, G., & Gardner, T. J. (2026, September 25). A Vision-Language Model as a Teacher for Bird Vocalization Detection. *bioRxiv* [Preprint]. <em class="submission-status">in submission</em> · [doi:10.64898/2026.09.23.753955](https://doi.org/10.64898/2026.09.23.753955)
 
-Vengrovski, G., & Gardner, T. J. (2026, August 21). SongMAE: A bioacoustic encoder for birdsong. *bioRxiv* [Preprint]. [doi:10.64898/2026.08.17.745361](https://doi.org/10.64898/2026.08.17.745361)
+Vengrovski, G., & Gardner, T. J. (2026, August 21). SongMAE: A bioacoustic encoder for birdsong. *bioRxiv* [Preprint]. <em class="submission-status">in submission</em> · [doi:10.64898/2026.08.17.745361](https://doi.org/10.64898/2026.08.17.745361)
 
-Hulsey-Vincent, M. R., Vengrovski, G. J., Sova, E., & Gardner, T. J. (2026, July 13). Lesions Involving Medial Anterior Forebrain Pathway Circuitry Destabilize Phrase Timing in Adult Canary Song. *bioRxiv* [Preprint]. [doi:10.64898/2026.07.11.737998](https://doi.org/10.64898/2026.07.11.737998)
+Hulsey-Vincent, M. R., Vengrovski, G. J., Sova, E., & Gardner, T. J. (2026, July 13). Lesions Involving Medial Anterior Forebrain Pathway Circuitry Destabilize Phrase Timing in Adult Canary Song. *bioRxiv* [Preprint]. <em class="submission-status">in submission</em> · [doi:10.64898/2026.07.11.737998](https://doi.org/10.64898/2026.07.11.737998)
 
 Vengrovski, G., Hulsey-Vincent, M. R., Bemrose, M. A., & Gardner, T. J. (2026). TweetyBERT: Automated parsing of birdsong through self-supervised machine learning. *Patterns, 7*(4), 101491. [doi:10.1016/j.patter.2025.101491](https://doi.org/10.1016/j.patter.2025.101491) · [2025 preprint](https://doi.org/10.1101/2025.04.09.648029)
 

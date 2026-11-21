@@ -122,3 +122,8 @@ li + li {
   text-indent: -1rem;
   overflow-wrap: anywhere;
 }
+
+.submission-status {
+  color: #a52727;
+  white-space: nowrap;
+}
