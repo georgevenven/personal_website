@@ -1,10 +1,14 @@
 ---
 layout: default
-title: blog
+title: Blog
+permalink: /blog/
 ---
 
-# Blog Posts
+# Blog
 
+{% if site.posts.size == 0 %}
+No posts yet.
+{% endif %}
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) - *{{ post.date | date_to_string }}*
+- [{{ post.title }}]({{ post.url | relative_url }}) - *{{ post.date | date_to_string }}*
 {% endfor %}

@@ -28,12 +28,36 @@ body {
   margin: 0 0 0.85rem;
 }
 
-.site-nav {
+.site-nav, .site-links, .profile-links {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   justify-content: center;
+}
+
+.site-nav {
+  gap: 0.25rem 1.35rem;
+}
+
+.site-links {
   gap: 0.25rem 1.15rem;
   font-size: 0.875rem;
+}
+
+.profile-links {
+  gap: 0.15rem;
+}
+
+.profile-links a {
+  display: grid;
+  place-items: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 0.2rem;
+}
+
+.profile-links a:hover {
+  background: #eaeaea;
 }
 
 .site-nav [aria-current='page'] {

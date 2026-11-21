@@ -1,6 +1,21 @@
 <nav class="site-nav" aria-label="Main navigation">
-  <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
-  <a href="{{ '/publications/' | relative_url }}"{% if page.url == '/publications/' %} aria-current="page"{% endif %}>Publications</a>
-  <a href="https://github.com/georgevenven">GitHub</a>
-  <a href="https://orcid.org/0009-0006-8890-1269">ORCID</a>
+  <div class="site-links">
+    <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+    <a href="{{ '/publications/' | relative_url }}"{% if page.url == '/publications/' %} aria-current="page"{% endif %}>Publications</a>
+    <a href="{{ '/blog/' | relative_url }}"{% if page.url == '/blog/' %} aria-current="page"{% endif %}>Blog</a>
+  </div>
+  <div class="profile-links">
+    <a href="https://github.com/georgevenven" aria-label="GitHub">
+      <img src="{{ '/assets/icons/github.svg' | relative_url }}" alt="" width="18" height="18">
+    </a>
+    <a href="https://huggingface.co/georgeven" aria-label="Hugging Face">
+      <img src="{{ '/assets/icons/huggingface.svg' | relative_url }}" alt="" width="18" height="18">
+    </a>
+    <a href="https://www.linkedin.com/in/george-vengrovski-591209157/" aria-label="LinkedIn">
+      <img src="{{ '/assets/icons/linkedin.svg' | relative_url }}" alt="" width="18" height="18">
+    </a>
+    <a href="https://orcid.org/0009-0006-8890-1269" aria-label="ORCID">
+      <img src="{{ '/assets/icons/orcid.svg' | relative_url }}" alt="" width="18" height="18">
+    </a>
+  </div>
 </nav>
