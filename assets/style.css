@@ -28,6 +28,12 @@ body {
   margin: 0 0 0.85rem;
 }
 
+.credential {
+  font-size: 0.54em;
+  font-weight: 500;
+  letter-spacing: normal;
+}
+
 .site-nav, .site-links, .profile-links {
   display: flex;
   flex-wrap: wrap;
